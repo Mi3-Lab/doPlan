@@ -2314,6 +2314,260 @@ folder,start_frame,end_frame,label,commentary,username,source_file,video_folder,
 2021.06.14.18.13.35_veh-26_01150_01320,33,354,,Non-Referential,Jeevan,./staging/labels - Jeevan Johnson.csv,,32.1
 2021.06.23.22.05.48_veh-16_00602_00800,286,970,"Take a right at the light. Stop behind the black car, wait till you can continue to go straight. Move one lane to the right. ",Both,Jeevan,./staging/labels - Jeevan Johnson.csv,,68.4
 2021.06.09.14.03.17_veh-12_00159_00283,4,255,,Non-Referential,Jeevan,./staging/labels - Jeevan Johnson.csv,,25.1
+2021.07.16.21.17.55_veh-26_03254_03336,38,380,Continue around the round about and take a right before the stop sign and a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,34.2
+2021.07.16.16.27.22_veh-26_00016_01515,115,839,"Right here, and take a right at the stop sign from the right lane.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,72.4
+2021.07.16.20.45.29_veh-35_00016_00589,410,1899,Enter the left lane at the stop light and take the next left after the stop light.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,148.9
+2021.07.16.18.19.22_veh-35_00440_00858,279,2040,Enter the right lane and turn right when the white car in front of you does and follow it.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,176.1
+2021.07.16.21.17.55_veh-26_03772_03842,25,266,Take a left turn from the right lane.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.1
+2021.07.16.20.45.29_veh-35_00600_01084,1133,2342,Follow the black car in front of you for now. Go around the stopped car. Take a left at the lights.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,120.9
+2021.07.16.22.40.23_veh-38_00371_00797,425,1112,Change to right lane.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,68.7
+2021.07.16.18.06.21_veh-38_04471_04922,595,2181,Change to right lane.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,158.6
+2021.07.16.18.06.21_veh-38_00770_01505,1151,2018,Take a right at the stop sign and a left from the rightmost lane at the lights. Change lanes to the right.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,86.7
+2021.07.16.18.06.21_veh-38_04933_05307,436,1186,Exit the roundabout before the stop sign and take a left at the lights.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,75.0
+2021.07.16.16.27.22_veh-26_05416_05596,11,867,Take a right at the lights and a left after the stop sign.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,85.6
+2021.07.16.18.06.21_veh-38_04311_04460,141,323,Left here.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,18.2
+2021.07.16.22.40.23_veh-38_00204_00360,263,480,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,21.7
+2021.07.16.22.40.23_veh-38_00204_00360,153,373,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,22.0
+2021.07.16.23.22.27_veh-14_06214_06318,297,499,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.2
+2021.07.16.21.17.55_veh-26_03254_03336,32,325,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,29.3
+2021.07.16.21.17.55_veh-26_03772_03842,2,309,"Right here, then left.",Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,30.7
+2021.07.16.18.19.22_veh-35_00869_03454,73,2482,Need to take a right at White Sands Motel and left into Luxor Las Vegas. Then left after we rejoin the main road.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,240.9
+2021.07.16.21.17.55_veh-26_05156_05225,71,329,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,25.8
+2021.07.16.21.17.55_veh-26_05558_05627,75,314,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.9
+2021.07.16.23.22.27_veh-14_04496_06203,0,2466,Keep going straight after turning left.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,246.6
+2021.07.16.16.08.35_veh-35_02551_02640,27,325,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,29.8
+2021.07.16.16.08.35_veh-35_03711_04709,139,684,Follow the silver car to the right.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,54.5
+2021.07.16.18.06.21_veh-38_04311_04460,195,628,Exit and take a right at the stop sign.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,43.3
+2021.07.16.23.22.27_veh-14_06214_06318,14,514,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,50.0
+2021.07.16.21.17.55_veh-26_02927_02992,28,234,Take the next right after the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.6
+2021.07.16.16.27.22_veh-26_00016_01515,602,1366,Take a right at the stop sign and then a left at the lights. Then prepare for a right turn.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,76.4
+2021.07.16.18.19.22_veh-35_00023_00234,38,919,Take the third left.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,88.1
+2021.07.16.18.19.22_veh-35_00255_00418,3,284,"Enter Luxor. Exit Luxor, take a right at the stop sign.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,28.1
+2021.07.16.21.17.55_veh-26_00715_00781,15,171,"Exit Paris, take a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,15.6
+2021.07.16.16.27.22_veh-26_03836_05047,873,1630,Follw that grey car at the lights.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,75.7
+2021.07.16.18.06.21_veh-38_04471_04922,1828,2049,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,22.1
+2021.07.16.21.17.55_veh-26_05156_05225,85,332,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.7
+2021.07.16.16.08.35_veh-35_02551_02640,55,436,Follow the dark sedan at the lights.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,38.1
+2021.07.16.23.22.27_veh-14_06214_06318,59,450,Keep going straight.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,39.1
+2021.07.16.23.22.27_veh-14_01502_01610,144,336,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,19.2
+2021.07.16.23.22.27_veh-14_01383_01479,233,387,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,15.4
+2021.07.16.22.40.23_veh-38_00204_00360,295,530,Stay behind this truck.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.5
+2021.07.16.18.19.22_veh-35_00255_00418,258,497,Take a right then a left.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.9
+2021.07.16.22.40.23_veh-38_00016_00182,13,807,Enter Luxor. Exit to the right at the stop sign. Then take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,79.4
+2021.07.16.23.22.27_veh-14_01631_03833,3,2345,Follow the silver car in front of you and then take me into Wynn.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,234.2
+2021.07.16.22.40.23_veh-38_00016_00182,81,795,"Enter Luxor, then take a right at the stop sign and left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,71.4
+2021.07.16.21.17.55_veh-26_05558_05627,93,311,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,21.8
+2021.07.16.18.06.21_veh-38_01526_02150,354,2221,Take a left. Follow the black pickup truck in front of you.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,186.7
+2021.07.16.18.49.56_veh-26_00015_00235,3,598,"Take a left, then right. Drop me off here. Exit by taking a right at the stop sign.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,59.5
+2021.07.16.21.17.55_veh-26_01014_01075,3,264,Take a right at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,26.1
+2021.07.16.23.22.27_veh-14_01631_03833,107,1929,Keep going straight and take a right into the Wynn.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,182.2
+2021.07.16.16.27.22_veh-26_00016_01515,28,2460,"Drop me off at Luxor, take a right at the stop sign to exit. You can then take a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,243.2
+2021.07.16.18.06.21_veh-38_04471_04922,554,2152,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,159.8
+2021.07.16.18.19.22_veh-35_00255_00418,46,734,Take a right at the stop sign and left at the lights from the second lane from the left.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,68.8
+2021.07.16.23.22.27_veh-14_04496_06203,94,2521,"Take a left, then keep going until I tell you to.",Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,242.7
+2021.07.16.23.22.27_veh-14_01631_03833,469,1074,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,60.5
+2021.07.16.21.17.55_veh-26_05558_05627,83,328,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.5
+2021.07.16.20.45.29_veh-35_01095_01486,36,1316,Drop me off at Luxor Las Vegas by taking a right before White Sands Motel.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,128.0
+2021.07.16.22.40.23_veh-38_00371_00797,218,1275,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,105.7
+2021.07.16.22.40.23_veh-38_00016_00182,196,595,Drop me off at Luxor Las Vegas.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,39.9
+2021.07.16.16.08.35_veh-35_03711_04709,1447,1815,"Take a left at the lights, then keep going straight until I say.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,36.8
+2021.07.16.22.40.23_veh-38_00818_03032,792,1015,Take a left at Paris Balloon.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,22.3
+2021.07.16.22.40.23_veh-38_00818_03032,662,2512,Take a left at Parris Balloon and keep driving straight until we see the statue of liberty.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,185.0
+2021.07.16.23.22.27_veh-14_00015_01368,260,2231,Go left at the lights. Then drive straight.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,197.1
+2021.07.16.23.22.27_veh-14_01502_01610,24,181,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,15.7
+2021.07.16.21.17.55_veh-26_05558_05627,5,339,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,33.4
+2021.07.16.16.08.35_veh-35_02651_03700,2223,2503,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,28.0
+2021.07.16.18.06.21_veh-38_03733_04300,122,1970,Exit Paris by taking a left and follow the white car.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,184.8
+2021.07.16.18.49.56_veh-26_00015_00235,479,961,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,48.2
+2021.07.16.16.27.22_veh-26_02282_03814,218,2491,Drop me off at Paris.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,227.3
+2021.07.16.16.27.22_veh-26_03836_05047,776,2258,Take a left at the lights and enter the right most lane after passing the Statue of Liberty.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,148.2
+2021.07.16.18.06.21_veh-38_03733_04300,584,1241,"Turn right into Paris, and drop me off. Exit by taking a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,65.7
+2021.07.16.18.06.21_veh-38_00770_01505,45,2363,Turn right after Excalibur Hotel and turn left into Luxor. Then exit Luxor and take a left at the lights.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,231.8
+2021.07.16.18.06.21_veh-38_04933_05307,227,1766,"Exit Paris by taking a left at the lights. After a while, follow the black suv.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,153.9
+2021.07.16.18.06.21_veh-38_05338_05486,78,444,Turn into Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,36.6
+2021.07.16.18.06.21_veh-38_04933_05307,672,1228,Take a left out of Paris Las Vegas.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,55.6
+2021.07.16.21.17.55_veh-26_03860_03930,13,204,Take a left before the Arco and prepare to turn right when I say so.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,19.1
+2021.07.16.20.45.29_veh-35_02509_02649,496,663,Enter Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,16.7
+2021.07.16.21.17.55_veh-26_00715_00781,20,224,Exit Paris Las Vegas.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.4
+2021.07.16.21.17.55_veh-26_01392_01488,124,432,Follow the ambulance.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,30.8
+2021.07.16.20.45.29_veh-35_01513_02486,710,1904,Keep going straight and enter the right most lane before the Arte Museum.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,119.4
+2021.07.16.23.22.27_veh-14_00015_01368,135,2522,Turn left at the lights and keep driving.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,238.7
+2021.07.16.21.17.55_veh-26_01392_01488,144,389,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.5
+2021.07.16.21.17.55_veh-26_00872_00937,30,299,Pass the yellow cab and enter the second lane from the right.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,26.9
+2021.07.16.18.19.22_veh-35_00023_00234,304,592,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,28.8
+2021.07.16.22.40.23_veh-38_00371_00797,510,2089,Second right after the Arte Museum.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,157.9
+2021.07.16.21.17.55_veh-26_04426_04488,59,286,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,22.7
+2021.07.16.20.45.29_veh-35_00016_00589,223,1177,Left at the Arco. Left into Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,95.4
+2021.07.16.22.40.23_veh-38_00818_03032,418,2475,Turn left at the lights. Then catchup to the advertisement truck.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,205.7
+2021.07.16.21.17.55_veh-26_01014_01075,10,296,Take the second right.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,28.6
+2021.07.16.18.06.21_veh-38_04311_04460,118,562,"Turn left, then exit the complex.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,44.4
+2021.07.16.18.06.21_veh-38_03733_04300,693,2372,"Pick me up at Paris, then turn left at the lights and drive forward.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,167.9
+2021.07.16.18.06.21_veh-38_00016_00747,682,1582,Turn left and prepare to take a right after the Statue of Liberty.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,90.0
+2021.07.16.18.06.21_veh-38_04311_04460,77,464,Enter Luxor. Then follow the white car in front of you.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,38.7
+2021.07.16.21.17.55_veh-26_01014_01075,47,299,Take a right at the Arco.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,25.2
+2021.07.16.20.45.29_veh-35_01513_02486,482,2457,Take me to Paris Las Vegas.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,197.5
+2021.07.16.18.06.21_veh-38_00770_01505,457,1102,Drop me off at Luxor by taking a right at the Arco.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,64.5
+2021.07.16.20.45.29_veh-35_00600_01084,370,2051,Enter Paris Las Vegas and drop me off. Then exit.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,168.1
+2021.07.16.23.22.27_veh-14_06339_07673,2285,2517,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.2
+2021.07.16.18.06.21_veh-38_02197_03220,444,1789,Follow the black SUV in front of you and keep going straight.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,134.5
+2021.07.16.18.06.21_veh-38_02197_03220,244,2067,Stay in this lane. After the Cocacola Store fchange lanes to the right and take a right at Paris.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,182.3
+2021.07.16.18.06.21_veh-38_02197_03220,244,2067,Left here and take me to Paris Las Vegas.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,182.3
+2021.07.16.18.49.56_veh-26_00833_03384,579,999,Keep going straight and once you see it follow the white honda crv.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,42.0
+2021.07.16.18.19.22_veh-35_00255_00418,119,794,Exit Luxor and take a right at the stop sign and a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,67.5
+2021.07.16.18.06.21_veh-38_04933_05307,206,1633,Exit Paris and keep driving until I tell you.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,142.7
+2021.07.16.23.22.27_veh-14_06214_06318,6,495,Stay in this lane.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,48.9
+2021.07.16.21.17.55_veh-26_04426_04488,8,231,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,22.3
+2021.07.16.16.27.22_veh-26_01536_02260,295,2386,Pick me up at Paris Las Vegas. Then turn left at the lights and change lanes to the right.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,209.1
+2021.07.16.20.45.29_veh-35_00016_00589,194,2456,Enter Luxor to pick me up. Then drive towards Leo the Lion.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,226.2
+2021.07.16.16.27.22_veh-26_01536_02260,110,1346,Drive into Paris Las Vegas.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,123.6
+2021.07.16.22.40.23_veh-38_00016_00182,23,809,Enter Luxor and follow the white car.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,78.6
+2021.07.16.18.49.56_veh-26_00015_00235,101,1053,"Enter Luxor, and exit it. Take a left at the Arco and stay behind the Shin Lim truck.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,95.2
+2021.07.16.20.45.29_veh-35_01513_02486,606,2445,Drive past the MGM building and enter Paris.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,183.9
+2021.07.16.18.49.56_veh-26_00256_00822,593,1402,Change lanes to the right.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,80.9
+2021.07.16.21.17.55_veh-26_05156_05225,72,233,Stay in this lane and drive forward.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,16.1
+2021.07.16.22.40.23_veh-38_00204_00360,307,601,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,29.4
+2021.07.16.16.08.35_veh-35_04744_06051,25,312,Take a right before the Arco.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,28.7
+2021.07.16.16.27.22_veh-26_02282_03814,231,1203,Take a left at the lights and keep driving towards the Arte Museum.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,97.2
+2021.07.16.18.49.56_veh-26_00833_03384,7,1277,Take a right before White Sands.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,127.0
+2021.07.16.20.45.29_veh-35_02509_02649,322,585,Take a left.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,26.3
+2021.07.16.23.22.27_veh-14_00015_01368,1196,2335,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,113.9
+2021.07.16.18.19.22_veh-35_00023_00234,270,437,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,16.7
+2021.07.16.18.49.56_veh-26_00015_00235,82,824,"Take a right into Luxor. Then a right at the stop sign, and a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,74.2
+2021.07.16.16.08.35_veh-35_02651_03700,908,1776,Left into Luxor and then right at the stop sign.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,86.8
+2021.07.16.16.08.35_veh-35_02551_02640,81,330,Follow the silver car to your right.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.9
+2021.07.16.21.17.55_veh-26_00872_00937,21,284,"Change lanes to the right to pass the yellow taxi, then change lanes to the right again.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,26.3
+2021.07.16.18.19.22_veh-35_00255_00418,90,492,Exit Luxor and take a left at the traffic lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,40.2
+2021.07.16.16.27.22_veh-26_05058_05383,351,1459,"Take a left, then follow the white car in front of you.",Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,110.8
+2021.07.16.23.22.27_veh-14_01502_01610,28,451,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,42.3
+2021.07.16.18.49.56_veh-26_03407_03538,8,542,"Take a right before the Arco, then a left.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,53.4
+2021.07.16.16.08.35_veh-35_02397_02540,26,693,Follow the orange cab to exit Paris.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,66.7
+2021.07.16.18.49.56_veh-26_00833_03384,1998,2369,Follow the black car in front of you.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,37.1
+2021.07.16.18.06.21_veh-38_04933_05307,258,799,Exit Paris to the left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,54.1
+2021.07.16.16.08.35_veh-35_02397_02540,392,594,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.2
+2021.07.16.16.27.22_veh-26_03836_05047,589,2412,"Take a left to exit Paris, then a right at White Sands.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,182.3
+2021.07.16.16.08.35_veh-35_02397_02540,377,592,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,21.5
+2021.07.16.20.45.29_veh-35_00016_00589,70,445,Take a left at the Arco.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,37.5
+2021.07.16.21.17.55_veh-26_03860_03930,44,304,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,26.0
+2021.07.16.16.08.35_veh-35_03711_04709,685,1192,Let the car on your left pass and follow it.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,50.7
+2021.07.16.23.22.27_veh-14_01383_01479,2,471,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,46.9
+2021.07.16.21.17.55_veh-26_03254_03336,148,350,Exit Paris.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.2
+2021.07.16.16.27.22_veh-26_05416_05596,65,841,Enter Luxor from the White Sands side.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,77.6
+2021.07.16.18.06.21_veh-38_03733_04300,685,2001,"Go through the Paris circle, then take a left at the lights and keep driving.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,131.6
+2021.07.16.23.22.27_veh-14_06339_07673,203,2099,Follow the white sedan in front of you.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,189.6
+2021.07.16.16.27.22_veh-26_03836_05047,993,2376,Take a left at the lights then a right at White Sands Motel.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,138.3
+2021.07.16.20.45.29_veh-35_02509_02649,92,540,Take a right at the Arco continue west.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,44.8
+2021.07.16.20.45.29_veh-35_00600_01084,108,2387,"Continue driving north in the right most lane and enter Paris, then exit it by taking a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,227.9
+2021.07.16.22.40.23_veh-38_00371_00797,2,2109,Continue north and attempt to enter Paris.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,210.7
+2021.07.16.21.17.55_veh-26_01392_01488,163,314,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,15.1
+2021.07.16.23.22.27_veh-14_06339_07673,409,2451,Continue driving south.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,204.2
+2021.07.16.21.17.55_veh-26_01392_01488,61,419,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,35.8
+2021.07.16.21.17.55_veh-26_03860_03930,55,272,Take a left and drive north.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,21.7
+2021.07.16.23.22.27_veh-14_01502_01610,237,472,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.5
+2021.07.16.16.27.22_veh-26_02282_03814,1232,1947,Take a right after the Paris Balloon.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,71.5
+2021.07.16.16.27.22_veh-26_02282_03814,1860,2069,Drop me off at Paris.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.9
+2021.07.16.16.08.35_veh-35_03711_04709,26,1942,Take a right after the Excalibur and enter Luxor. Then rejoin the main road by taking a left at the lights and drive north.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,191.6
+2021.07.16.21.17.55_veh-26_00715_00781,23,261,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.8
+2021.07.16.21.17.55_veh-26_00715_00781,112,295,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,18.3
+2021.07.16.21.17.55_veh-26_05156_05225,91,274,Continue north.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,18.3
+2021.07.16.18.49.56_veh-26_03407_03538,401,609,Drop me off at Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.8
+2021.07.16.16.27.22_veh-26_03836_05047,725,1065,Wait for the person to pass then take a left at the lights.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,34.0
+2021.07.16.18.49.56_veh-26_00833_03384,1627,2376,"Enter Luxor, then take a right at the stop sign and a left at the lights behind the black car.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,74.9
+2021.07.16.18.06.21_veh-38_05338_05486,10,500,Take a right at Arco and change lanes to the left.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,49.0
+2021.07.16.21.17.55_veh-26_02927_02992,77,272,Pass the traffic from the right.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,19.5
+2021.07.16.18.19.22_veh-35_00440_00858,934,1174,Change lanes to the right and keep driving north.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.0
+2021.07.16.23.22.27_veh-14_01383_01479,28,429,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,40.1
+2021.07.16.16.27.22_veh-26_00016_01515,67,1740,"Pick me up at luxor, take a left at Arco, then head north.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,167.3
+2021.07.16.18.06.21_veh-38_02197_03220,235,2354,"Take a left at the White Sands Motel and head north. Turn right into paris, then exit to the left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,211.9
+2021.07.16.22.40.23_veh-38_00371_00797,549,1867,Continue heading north.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,131.8
+2021.07.16.16.08.35_veh-35_04744_06051,181,2395,"Right at the lights, then left into Luxor. Left at Acro and drive north.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,221.4
+2021.07.16.20.45.29_veh-35_00600_01084,65,1642,"Drive north until the Paris Balloon, then turn right.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,157.7
+2021.07.16.16.27.22_veh-26_02282_03814,207,2205,"Turn right, drive north, change lanes to the right, enter Paris Las Vegas, exit to the left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,199.8
+2021.07.16.18.06.21_veh-38_00770_01505,490,2499,"Follow the orange car in front, then after exiting Luxor follow the black car.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,200.9
+2021.07.16.18.06.21_veh-38_03733_04300,1233,2309,Follow the white car in front of you.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,107.6
+2021.07.16.18.06.21_veh-38_03733_04300,836,1154,Exit Paris behind the white minivan.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,31.8
+2021.07.16.22.40.23_veh-38_00818_03032,1819,2459,Continue southbound.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,64.0
+2021.07.16.18.06.21_veh-38_02197_03220,981,2338,Continue south and turn into Paris. Then exit to the left at the trafic lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,135.7
+2021.07.16.18.06.21_veh-38_00770_01505,728,1478,Take the next left after the pedestrian crossing. Then follow the red car and take a left at the lights.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,75.0
+2021.07.16.23.22.27_veh-14_04496_06203,144,2206,Take a left at the lights. Then drive southbound.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,206.2
+2021.07.16.21.17.55_veh-26_00872_00937,1,320,Pass the yellow cab from the right.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,31.9
+2021.07.16.20.45.29_veh-35_02509_02649,337,679,Take the next left.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,34.2
+2021.07.16.16.27.22_veh-26_00016_01515,91,1405,Take a right. Then take a right at the stop sign and left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,131.4
+2021.07.16.22.40.23_veh-38_00016_00182,91,541,"Take a left, then a right. Then a right at the stop sign.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,45.0
+2021.07.16.18.49.56_veh-26_03407_03538,51,625,Enter Luxor from the north.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,57.4
+2021.07.16.23.22.27_veh-14_01383_01479,71,415,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,34.4
+2021.07.16.18.19.22_veh-35_00440_00858,15,1078,Change to the right lane after the Arte Museum.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,106.3
+2021.07.16.21.17.55_veh-26_01392_01488,1,465,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,46.4
+2021.07.16.16.27.22_veh-26_05416_05596,127,666,Follow the white minivan.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,53.9
+2021.07.16.21.17.55_veh-26_00715_00781,125,276,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,15.1
+2021.07.16.18.49.56_veh-26_00833_03384,1553,2200,Take a left. Then drop me off at Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,64.7
+2021.07.16.18.06.21_veh-38_00016_00747,571,2366,"Take a left at the traffic lights, preparing for a right. Then before the Paris Balloon enter the rightmost lane.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,179.5
+2021.07.16.18.06.21_veh-38_04311_04460,11,731,Take a left into Luxor. Then take a right at the stop sign and a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,72.0
+2021.07.16.23.22.27_veh-14_04496_06203,1242,1773,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,53.1
+2021.07.16.18.06.21_veh-38_03733_04300,353,1519,Turn right into Paris and enter the right lane. Then take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,116.6
+2021.07.16.18.06.21_veh-38_04311_04460,212,715,"Turn into Luxor, then head towards White Sands and take a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,50.3
+2021.07.16.18.49.56_veh-26_00015_00235,377,617,"Take a right at the stop sign, then a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.0
+2021.07.16.21.17.55_veh-26_03254_03336,7,353,Go through the Paris roundabout and take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,34.6
+2021.07.16.16.27.22_veh-26_03836_05047,1652,2336,"Keep heading south, then follow the yellow cab.",Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,68.4
+2021.07.16.18.49.56_veh-26_00833_03384,21,2488,Drop me off at Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,246.7
+2021.07.16.23.22.27_veh-14_00015_01368,1632,2061,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,42.9
+2021.07.16.22.40.23_veh-38_00016_00182,266,706,Take a right at the stop sign and a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,44.0
+2021.07.16.18.19.22_veh-35_00869_03454,1801,1990,Take a right at the stop sign.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,18.9
+2021.07.16.23.22.27_veh-14_01502_01610,68,258,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,19.0
+2021.07.16.23.22.27_veh-14_01383_01479,144,475,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,33.1
+2021.07.16.23.22.27_veh-14_01631_03833,45,917,Head north.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,87.2
+2021.07.16.18.06.21_veh-38_04471_04922,1589,2191,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,60.2
+2021.07.16.18.06.21_veh-38_00016_00747,325,1781,"Take a right, then a left at the lights. Chagne lanes to the right. Head north.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,145.6
+2021.07.16.20.45.29_veh-35_02509_02649,16,618,"Take a right at the Arco, then a left into Luxor.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,60.2
+2021.07.16.18.06.21_veh-38_04311_04460,389,637,Take a right at the stop sign.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.8
+2021.07.16.21.17.55_veh-26_03772_03842,9,335,"Take a right, then take a left at the lights.",Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,32.6
+2021.07.16.21.17.55_veh-26_05156_05225,25,223,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,19.8
+2021.07.16.16.27.22_veh-26_02282_03814,127,2164,"Take a left at the lights, drive north, then change lanes to the right before the Arte Museum, and turn into Paris.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,203.7
+2021.07.16.18.06.21_veh-38_03733_04300,893,2136,Exit Paris to the left at the lights and follow the white minivan.,Both,Aprameya,./staging/labels - Aprameya Asala.csv,,124.3
+2021.07.16.18.19.22_veh-35_00255_00418,16,716,"Enter Luxor, then exit to the right at the stop sign, and take a left at the lights.",Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,70.0
+2021.07.16.16.27.22_veh-26_02282_03814,445,2100,"Take me to Paris, Las Vegas.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,165.5
+2021.07.16.16.08.35_veh-35_02551_02640,91,330,Follow the grey car to your right.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.9
+2021.07.16.16.08.35_veh-35_02551_02640,55,388,Follow the grey car that just passed you.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,33.3
+2021.07.16.23.22.27_veh-14_01383_01479,98,286,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,18.8
+2021.07.16.18.19.22_veh-35_00023_00234,709,917,Take a left.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,20.8
+2021.07.16.23.22.27_veh-14_06339_07673,73,1474,Keep going straight.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,140.1
+2021.07.16.21.17.55_veh-26_01392_01488,0,255,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,25.5
+2021.07.16.21.17.55_veh-26_03772_03842,164,333,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,16.9
+2021.07.16.16.08.35_veh-35_02551_02640,25,284,"Turn left, then change lanes to the right.",Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,25.9
+2021.07.16.21.17.55_veh-26_01392_01488,82,316,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,23.4
+2021.07.16.16.08.35_veh-35_02397_02540,119,699,Left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,58.0
+2021.07.16.23.22.27_veh-14_04496_06203,772,1445,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,67.3
+2021.07.16.23.22.27_veh-14_03844_04474,221,1591,Keep heading north and turn right into the Wynn.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,137.0
+2021.07.16.16.08.35_veh-35_04744_06051,71,2522,Turn right at the lights. Then enter Luxor and exit to the east. Then take a left at the lights and head north.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,245.1
+2021.07.16.21.17.55_veh-26_03254_03336,70,374,Take a left at the traffic lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,30.4
+2021.07.16.23.22.27_veh-14_03844_04474,550,723,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,17.3
+2021.07.16.18.49.56_veh-26_03407_03538,164,481,"Enter the left lane, and prepare to take the next left.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,31.7
+2021.07.16.21.17.55_veh-26_01392_01488,144,465,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,32.1
+2021.07.16.21.17.55_veh-26_03772_03842,161,321,Take a left behind the black car.,Dynamic Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,16.0
+2021.07.16.21.17.55_veh-26_00872_00937,34,251,Change lanes to the right and continue southbound.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,21.7
+2021.07.16.21.17.55_veh-26_05558_05627,104,323,Take a right at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,21.9
+2021.07.16.16.27.22_veh-26_05416_05596,17,826,Drop me off at Luxor.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,80.9
+2021.07.16.23.22.27_veh-14_06339_07673,710,2484,Keep driving south.,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,177.4
+2021.07.16.18.49.56_veh-26_00833_03384,328,2193,Pass the cars in front of you from the right. Then enter Luxor from the east using the north entrance. Then exit Luxor to the east.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,186.5
+2021.07.16.21.17.55_veh-26_04426_04488,5,249,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.4
+2021.07.16.20.45.29_veh-35_00600_01084,854,1968,"Enter Paris, then exit by taking a left at the lights.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,111.4
+2021.07.16.16.27.22_veh-26_02282_03814,1543,1711,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,16.8
+2021.07.16.21.17.55_veh-26_00715_00781,64,312,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.8
+2021.07.16.18.19.22_veh-35_00440_00858,279,1630,Keep heading north and turn into Paris.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,135.1
+2021.07.16.18.06.21_veh-38_04311_04460,114,633,"Enter Luxor, and then exit to the right at the stop sign.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,51.9
+2021.07.16.18.06.21_veh-38_04311_04460,65,729,"Drop me off at Luxor on the right, then exit eastwards and take a left.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,66.4
+2021.07.16.22.40.23_veh-38_00016_00182,17,800,"Take a left, then a right into Luxor. Then take a right at the stop sign and a left at the lights behind the white minivan.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,78.3
+2021.07.16.21.17.55_veh-26_04426_04488,18,266,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.8
+2021.07.16.16.27.22_veh-26_03836_05047,43,2516,Pick me up at Paris. Then take a left at the lights and head towards White Sands Motel. Take a right before the motel.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,247.3
+2021.07.16.18.19.22_veh-35_00440_00858,1072,2066,"Enter Paris, then take a left at the right, preparing to head south on the main road.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,99.4
+2021.07.16.21.17.55_veh-26_04426_04488,14,189,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,17.5
+2021.07.16.22.40.23_veh-38_00818_03032,335,2459,"Take a left at the lights, then change lanes to the right. Then keep driving straight.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,212.4
+2021.07.16.16.08.35_veh-35_04744_06051,503,2263,"Enter Luxor, then take a right at the stop sign and a left at the lights, heading north.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,176.0
+2021.07.16.18.49.56_veh-26_00833_03384,944,2101,"Take a right with the white honda crv, then take a left into Luxor Las Vegas. Exit by taking a right at the stop sign.",Both,Aprameya,./staging/labels - Aprameya Asala.csv,,115.7
+2021.07.16.20.45.29_veh-35_00600_01084,6,1943,Turn into Paris up ahead after the Paris Balloon. Drop me off there.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,193.7
+2021.07.16.21.17.55_veh-26_04426_04488,17,260,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,24.3
+2021.07.16.21.17.55_veh-26_01392_01488,53,410,,Non-Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,35.7
+2021.07.16.16.27.22_veh-26_03836_05047,435,1140,Take a left at the lights.,Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,70.5
+2021.07.16.18.06.21_veh-38_01526_02150,1367,1990,"Turn right at the Arco, and change to the left lane.",Static Referential,Aprameya,./staging/labels - Aprameya Asala.csv,,62.3
 2021.07.09.15.53.28_veh-38_00053_00163,152,510,,Non-Referential,Vrishan,./staging/labels - Vrishan Inukollu.csv,,35.8
 2021.07.09.20.26.06_veh-35_02793_03289,2109,2319,,Non-Referential,Vrishan,./staging/labels - Vrishan Inukollu.csv,,21.0
 2021.07.09.20.59.12_veh-38_00690_00762,35,301,,Non-Referential,Vrishan,./staging/labels - Vrishan Inukollu.csv,,26.6
