@@ -3854,6 +3854,336 @@ folder,start_frame,end_frame,label,commentary,username,source_file,video_folder,
 2021.09.15.12.32.43_veh-28_00973_01056,39,358,head toward the Beaver,Static Referential,noorrauf,./staging/labels - Noor Rauf.csv,,31.9
 2021.09.15.11.49.23_veh-28_00081_00237,78,396,turn right,Non-Referential,noorrauf,./staging/labels - Noor Rauf.csv,,31.8
 2021.09.15.12.32.43_veh-28_00625_00697,88,266,,Non-Referential,noorrauf,./staging/labels - Noor Rauf.csv,,17.8
+2021.06.09.14.50.36_veh-26_04226_04484,54,1205,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,115.1
+2021.06.09.18.23.43_veh-35_05068_05186,91,332,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,24.1
+2021.06.14.13.27.42_veh-35_02614_02842,478,1068,Enter the same lane as the white van and continue to follow it,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,59.0
+2021.06.23.21.56.29_veh-35_01603_02401,308,2246,Enter the white vans lane and at the green light turn right. Stay in this lane and at the Tram station pull next to the black car. You can go now,Both,nelida,./staging/labels - Nelida Salgado.csv,,193.8
+2021.10.11.05.34.05_veh-50_02309_02677,956,1553,At the light turn right and enter the right lane. After the Thales sign turn right. Where the slow is at turn right. Just go straight and then make another right and then keeo going straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,59.7
+2021.06.14.18.13.35_veh-26_03258_03349,36,191,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.5
+2021.06.14.16.48.02_veh-12_01020_01720,1218,2515,"Follow the white van. At the stop sign, take a right and enter the left lane. Continue following the white van. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,129.7
+2021.05.12.19.36.12_veh-35_01305_01389,51,389,Go straight,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,33.8
+2021.06.09.18.23.43_veh-35_03967_05057,645,1137,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,49.2
+2021.06.14.14.25.15_veh-26_00867_01088,51,1044,"At the light, make a left turn, once you cross the intersection enter the lane on the right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,99.3
+2021.06.09.19.40.26_veh-12_01241_01510,1,636,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,63.5
+2021.06.09.14.50.36_veh-26_02680_02781,10,428,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,41.8
+2021.06.14.16.32.09_veh-35_04114_04359,477,828,Follow the red mustang ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,35.1
+2021.07.16.18.19.22_veh-35_00255_00418,35,338,Pull next to the silver SUV. Exit and at the stop sign take a right ,Both,nelida,./staging/labels - Nelida Salgado.csv,,30.3
+2021.10.06.14.31.13_veh-28_00014_00079,8,297,At the stop sign take a right.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,28.9
+2021.07.16.16.08.35_veh-35_04744_06051,438,1466,Turn left and wait in the unloading zone. At the stop sign take a right. Enter the same lane as the grey SUV,Both,nelida,./staging/labels - Nelida Salgado.csv,,102.8
+2021.06.09.11.54.15_veh-12_03121_03319,228,570,"At the upcoming light, you are going to make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,34.2
+2021.06.09.12.39.51_veh-26_04374_04513,210,639,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,42.9
+2021.06.14.16.32.09_veh-35_03231_03426,256,944,At this light make a left turn. Move to the right lane ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,68.8
+2021.06.09.17.23.18_veh-38_00016_00120,110,437,At this light make a left turn,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.7
+2021.06.09.17.23.18_veh-38_01761_02019,1,1280,"At the upcoming light, take a right turn. Make sure you enter the farthest left lane. After this stop sign and this big ad, make a left turn into this unloading zone. Pull up between the black sedan and the red van. Exit and at the stop sign make a right turn. At this upcoming light make a right turn.",Both,nelida,./staging/labels - Nelida Salgado.csv,,127.9
+2021.06.09.17.23.18_veh-38_00016_00120,133,346,"At the light, make a right turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.3
+2021.06.09.11.54.15_veh-12_02957_03110,216,583,"Once the car in front of us finishes loading, pull off.",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.7
+2021.08.17.13.15.12_veh-45_00925_00987,0,282,"At this light, make a left turn. Pass these cars and enter the right lane. At the upcoming light, make a right turn. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,28.2
+2021.06.14.14.03.45_veh-38_04398_04488,1,408,Follow the white van,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,40.7
+2021.09.15.13.16.40_veh-28_02198_02321,134,601,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.7
+2021.06.14.13.27.42_veh-35_03624_03705,171,386,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.5
+2021.06.14.11.44.56_veh-35_00059_00410,238,1596,"Follow the white van. Dont stop like the white van, just exit and at the stop sign make a right turn. At the light, you're going to make a left turn. Enter lane on our right.",Both,nelida,./staging/labels - Nelida Salgado.csv,,135.8
+2021.07.09.23.23.48_veh-26_01454_02217,186,660,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.4
+2021.06.14.13.27.42_veh-35_00142_00231,63,306,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,24.3
+2021.10.06.17.08.46_veh-28_01298_01548,50,1240,"At the next stop sign, turn right. At this upcoming stop sign, make a right turn. Once you reach these stop signs, make a left turn. After the two lights youre going to make a right turn, near the park.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,119.0
+2021.06.14.14.03.45_veh-38_01547_01613,66,297,Follow the white van,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.1
+2021.06.14.18.33.41_veh-35_04275_04435,373,794,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,42.1
+2021.09.15.15.02.19_veh-39_00214_00558,47,1672,"Follow the black car in front of us. Dont follow it in into the left lane, just stay here and make a right turn at the light. Pass the postal services car.",Both,nelida,./staging/labels - Nelida Salgado.csv,,162.5
+2021.06.09.12.51.31_veh-35_05024_05275,391,1201,"At this light make a left turn. Copy the black car in front of us, and stay in this lane.",Both,nelida,./staging/labels - Nelida Salgado.csv,,81.0
+2021.06.14.13.27.42_veh-35_01472_01666,34,892,Follow the white car in front of us,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,85.8
+2021.06.14.16.48.02_veh-12_00285_00574,501,979,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.8
+2021.06.14.17.26.26_veh-38_04403_04533,238,420,Enter the parking area.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.2
+2021.06.09.12.06.35_veh-35_00149_00262,62,362,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,30.0
+2021.06.14.13.27.42_veh-35_03142_03404,327,798,just follow the white van in front of us.,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.1
+2021.10.11.02.57.41_veh-50_02428_02548,241,591,"At this upcoming light, you are going to make a right turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,35.0
+2021.07.09.20.26.06_veh-35_00016_01757,840,1067,follow the silver sedan and enter where they did,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.7
+2021.06.09.17.37.09_veh-12_04340_04478,339,575,"Right where the cones end make a right turn. At the upcoming light, be prepared to make a left turn.",Ambiguous,nelida,./staging/labels - Nelida Salgado.csv,,23.6
+2021.07.16.21.17.55_veh-26_05558_05627,82,277,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,19.5
+2021.10.11.08.31.07_veh-50_01972_02057,24,208,Exit this area.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.4
+2021.07.09.23.23.48_veh-26_02228_04624,776,2147,"At the upcoming light, make a right turn. Try to enter the farthest left lane. Once we pass this billboard make a right turn. Wait behind the silver car for a bit and then pull off. When you exit take a right turn. At this light coming up make a left turn.",Both,nelida,./staging/labels - Nelida Salgado.csv,,137.1
+2021.06.09.14.50.36_veh-26_02680_02781,79,465,"Once this silver car passes by, go around this white car.",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,38.6
+2021.06.14.13.27.42_veh-35_04793_04883,27,432,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,40.5
+2021.10.06.17.08.46_veh-28_01127_01287,26,772,"After this turn, at the next upcoming light make another left turn. At the stop sign, make a right turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,74.6
+2021.06.14.18.13.35_veh-26_04412_04536,16,455,Enter the right lane,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,43.9
+2021.06.14.13.27.42_veh-35_01160_01331,324,775,copy what the white van is doing.,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,45.1
+2021.06.14.18.13.35_veh-26_04412_04536,203,540,"Enter the right lane, at this light make a right turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,33.7
+2021.10.06.18.52.07_veh-28_00442_00578,189,486,"At the light, make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,29.7
+2021.06.14.17.26.26_veh-38_01177_01256,78,374,"At the light, make a right turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,29.6
+2021.06.23.21.56.29_veh-35_00097_00209,79,402,Exit the roudabout.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.3
+2021.09.15.16.17.26_veh-28_01450_01544,52,278,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.6
+2021.10.11.08.31.07_veh-50_01365_01539,481,713,"At this stop sign, make a right turn. Then be prepared to make another right turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.2
+2021.10.06.19.27.33_veh-28_00805_01736,692,1187,At the light make a right turn. Switch into the left lane,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,49.5
+2021.06.09.17.37.09_veh-12_01215_01375,522,745,Make a right and enter the self parking/taxi area. Wait behind this white cab,Both,nelida,./staging/labels - Nelida Salgado.csv,,22.3
+2021.08.17.14.32.33_veh-08_01262_01528,175,923,"At the intersection, make a left turn. At the stop sign, make another left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,74.8
+2021.08.17.18.43.12_veh-43_01023_01358,1254,1636,"At the stop sign, make a right turn. At the next stop sign, make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,38.2
+2021.09.15.13.52.55_veh-39_00818_01335,542,1487,"At the light, make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,94.5
+2021.06.14.16.48.02_veh-12_02861_03047,196,771,"After this light, make a right turn into the intersection.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,57.5
+2021.06.14.17.26.26_veh-38_03162_03227,88,242,Enter the roundabout,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.4
+2021.08.17.13.10.50_veh-08_00122_00295,67,578,"At the upcoming light, you are going to make a left turn. At the second light, you are going to make another left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,51.1
+2021.06.14.14.03.45_veh-38_03180_03766,2004,2271,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,26.7
+2021.08.17.18.13.38_veh-45_00016_00127,8,527,Make a right turn here. ,Ambiguous,nelida,./staging/labels - Nelida Salgado.csv,,51.9
+2021.10.11.05.34.05_veh-50_00189_00398,24,735,"At the next light, make a a left turn. Go back around using the loading zone. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,71.1
+2021.06.14.13.27.42_veh-35_01342_01461,29,546,Enter the same lane as the white car in front of us entered.,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,51.7
+2021.10.01.18.26.05_veh-28_00949_01041,34,254,continue straight ,Ambiguous,nelida,./staging/labels - Nelida Salgado.csv,,22.0
+2021.06.14.18.33.41_veh-35_03575_03668,88,301,"At this light, you are going to make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.3
+2021.10.11.07.12.18_veh-50_00345_00498,464,680,"after making the right turn, just go straight.",Ambiguous,nelida,./staging/labels - Nelida Salgado.csv,,21.6
+2021.09.15.13.16.40_veh-28_00366_00631,120,1157,"make a left turn at this light, just like the grey car in front of us did ",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,103.7
+2021.06.09.14.50.36_veh-26_04605_04729,168,373,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.5
+2021.06.14.11.44.56_veh-35_00938_01134,179,896,Enter the red car's lane. At the light coming up make a right turn. Enter the lane on the right.,Both,nelida,./staging/labels - Nelida Salgado.csv,,71.7
+2021.09.15.13.52.55_veh-39_00134_00215,27,319,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,29.2
+2021.06.14.17.26.26_veh-38_00955_01067,88,466,"follow the white van in front of us, enter the same lane as they did ",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,37.8
+2021.06.14.14.25.15_veh-26_03675_03860,5,512,Follow the cab in front of us and pull behind it. Exit the loading zone,Both,nelida,./staging/labels - Nelida Salgado.csv,,50.7
+2021.06.09.14.50.36_veh-26_01209_01393,27,782,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,75.5
+2021.08.17.14.32.33_veh-08_01262_01528,717,1099,"At the stop sign, make a left turn. Then make another left turn ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,38.2
+2021.06.09.11.54.15_veh-12_02734_02946,146,636, Enter the right lane.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,49.0
+2021.10.11.02.57.41_veh-50_02428_02548,55,590,"After this turn, youre going to make a right turn at the light.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,53.5
+2021.09.15.11.49.23_veh-28_01108_01493,128,1463,"At this light, make a right turn. At the following light make another right turn. At the park, youre going to make a left turn. Make a right here and then at the light youre going to make another left.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,133.5
+2021.06.09.17.37.09_veh-12_04340_04478,252,657,Exit the loading zone and at the light make a left turn,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,40.5
+2021.09.15.12.32.43_veh-28_02111_02342,434,1060,once you reach the pier parking  near the water making a left turn,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,62.6
+2021.06.09.18.23.43_veh-35_03804_03956,289,727,just continue to go straight.,Ambiguous,nelida,./staging/labels - Nelida Salgado.csv,,43.8
+2021.06.14.13.27.42_veh-35_01025_01086,6,206,"follow the white van, and make a turn where they are turning.",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.0
+2021.06.14.13.27.42_veh-35_03142_03404,1,251,enter the right lane. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,25.0
+2021.06.09.12.39.51_veh-26_00371_00480,84,519,"Enter the roundabout on the right. Wait in the loading zone behind this silver truck,",Both,nelida,./staging/labels - Nelida Salgado.csv,,43.5
+2021.10.01.18.26.05_veh-28_00005_00413,1378,1783,"At this light, make a right turn. Go straight down and at the stop sign youre going to make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,40.5
+2021.06.09.12.51.31_veh-35_01729_02626,29,783,"At the intersection, make a right turn. Enter the roundabout and wait in the loading zone next to the grey sedan. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,75.4
+2021.10.01.19.16.42_veh-28_01511_01624,54,308,"Once you reach the park, youre gonna make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,25.4
+2021.07.16.02.53.40_veh-17_00016_01588,578,1041,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.3
+2021.06.09.19.40.26_veh-12_02031_02228,202,941,"At this light, make a right turn. By the big ad, make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,73.9
+2021.06.14.16.32.09_veh-35_02928_03118,117,831,Try to swap into the right lanes. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,71.4
+2021.06.14.18.13.35_veh-26_05422_05488,19,257,"After this light, enter the lane to the right of us.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.8
+2021.06.09.14.50.36_veh-26_02826_02955,200,409,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.9
+2021.06.09.12.51.31_veh-35_05024_05275,446,907,"After these cones, swap to the right lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.1
+2021.07.16.02.53.40_veh-17_00016_01588,62,2543,Exit the roundabout and make a left turn at the light. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,248.1
+2021.09.15.15.02.19_veh-39_01107_01666,1098,2443,"At this light, make a right urn. After this light, youre gonna take another left. Switch to the right lane ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,134.5
+2021.06.09.17.23.18_veh-38_00016_00120,89,385,"At this light, youre going to make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,29.6
+2021.09.15.14.50.05_veh-28_00182_00253,6,268,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,26.2
+2021.06.09.14.50.36_veh-26_04123_04185,10,218,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.8
+2021.10.01.15.32.11_veh-28_00475_00930,178,967,"At this light, make a right turn. At the following light, make another right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,78.9
+2021.06.09.12.51.31_veh-35_00100_00277,68,853,"At this light, make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,78.5
+2021.09.15.14.50.05_veh-28_01511_01690,204,680,"At this light, make a left.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.6
+2021.07.16.16.27.22_veh-26_05058_05383,75,290,Exit the roundabout and then make a left at the light. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.5
+2021.07.16.16.08.35_veh-35_00132_00784,1525,1833,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,30.8
+2021.06.14.11.44.56_veh-35_02696_02932,220,1131,"At the intersection, make a right and enter the roundabout. Wait in the loading zone next to that green cab. Exit the roundabout and at the light make a left. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,91.1
+2021.06.14.18.33.41_veh-35_01970_02043,38,190,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.2
+2021.06.09.14.50.36_veh-26_01209_01393,363,725,At this light make a left. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.2
+2021.10.06.13.21.47_veh-28_01198_01616,783,1930,At this light make a right. At the second light make another right. Just go straight after. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,114.7
+2021.06.09.17.37.09_veh-12_03420_03578,342,586,Just continue to go straight. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,24.4
+2021.06.14.13.28.41_veh-12_03841_04014,69,756,"At that big Luxor sign, make a right. At the intersection after the stop sign, make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,68.7
+2021.05.12.22.00.38_veh-35_00129_00204,1,365,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.4
+2021.10.06.19.27.33_veh-28_00016_00079,14,300,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,28.6
+2021.06.14.16.32.09_veh-35_02435_02526,58,383,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.5
+2021.07.16.16.08.35_veh-35_00805_01292,318,1914,Make a right here. At the light make a left turn. Try to enter the right lane. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,159.6
+2021.06.14.18.33.41_veh-35_00016_00213,285,897,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,61.2
+2021.10.01.15.32.11_veh-28_01178_01392,126,704,"At the roundabout use the second exit. At the stop sign, make a right. At this stop, make a right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,57.8
+2021.09.15.14.50.05_veh-28_00578_00896,470,969,"At the light, make a right. Go past this light and at the next make another right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,49.9
+2021.10.06.17.43.07_veh-28_01354_01536,407,617,"At the stop, make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.0
+2021.08.17.14.32.33_veh-08_01072_01231,72,718,"At the light, make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,64.6
+2021.10.01.14.20.36_veh-28_01491_01630,5,585,"At the stop, make a left. At the following stop, make another left. Where the delivery truck is at, make a right. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,58.0
+2021.09.15.14.27.22_veh-39_00038_00414,80,1863,"At the light, make a left. At the next light, make another left. Go straight at this light and at the next make a left.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,178.3
+2021.06.09.14.50.36_veh-26_05825_05901,16,366,"At the light, make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,35.0
+2021.08.17.19.18.39_veh-08_00407_00595,101,769,"When we reach the plaza, make a left at the intersection. At the stop sign, make a right. At the next intersection, make another right and then take another right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,66.8
+2021.10.01.17.52.06_veh-28_01289_01353,93,302,"At the stop, just go straight.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.9
+2021.06.09.19.40.26_veh-12_02031_02228,172,972,"At the light, make a right. At the intersection past the stop sign, make a right. Enter the unloading zone.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,80.0
+2021.06.14.13.27.42_veh-35_00842_00940,13,380,"Follow the white van, and switch into the same lane as they did.",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.7
+2021.09.15.15.34.53_veh-28_01133_01234,256,484,For now just follow this truck in front of us. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.8
+2021.10.11.07.12.18_veh-50_00345_00498,88,606,"At the intersection, make a right. Enter the loading zone on the left and when you exit go straight and enter the loading zone right in front of us. Make a right and go back to the interesection. At this light, make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,51.8
+2021.10.11.07.47.13_veh-50_01020_01123,0,508,"At the light, just go straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,50.8
+2021.06.14.14.25.15_veh-26_01600_01699,134,463,"At the light, make a left. At the next light, just go straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.9
+2021.06.09.14.03.17_veh-12_00159_00283,42,542,"At these next two lights, just go straight. Switch into the right lane.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,50.0
+2021.06.09.12.39.51_veh-26_00609_01168,992,2130,"At the upcoming light, make a right. At the intersection after the stop, make a left. Enter the loading area, and wait behind the grey SUV. When the car in front of us leaves, leave the loading zone and at the stop make a right turn.",Both,nelida,./staging/labels - Nelida Salgado.csv,,113.8
+2021.08.17.14.45.12_veh-42_00831_01079,80,649,"Go straight until you reach the park. Once you reach the stop sign near the park, make a right turn. At the next stop sign, make another right. At the upcoming stop sign, make a left turn. At the stop, make another right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,56.9
+2021.07.09.16.12.19_veh-26_06527_06591,59,270,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.1
+2021.10.01.18.26.05_veh-28_01689_01890,178,881,"At the stop sign, make a right. Make another right. Just go straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,70.3
+2021.06.09.19.40.26_veh-12_00279_01212,505,1335,Just follow the white van in front of us. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,83.0
+2021.10.01.19.16.42_veh-28_03215_03296,81,379,"At this light, make a left. Just follow the semi in fron of us",Both,nelida,./staging/labels - Nelida Salgado.csv,,29.8
+2021.09.15.13.12.49_veh-39_00541_00634,85,310,"At this light, make a left. At the following light, just continue to go straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.5
+2021.07.16.16.08.35_veh-35_03711_04709,292,2129,"At the light, make a right turn. At the intersection after the stop sign, make a left turn into the Luxor hotel. Enter the loading zone and wait for a bit. Then exit and at the stop sign, make a right turn. At the upcoming light, youre gonna make a left turn. Just go straight afterward. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,183.7
+2021.06.14.13.28.41_veh-12_04300_04506,264,997,"After the first light, merge into the right lane.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,73.3
+2021.06.14.18.33.41_veh-35_01193_01304,2,544,"When we get close to the tourist bus pulled off to the side, merge into lane on the right.",Both,nelida,./staging/labels - Nelida Salgado.csv,,54.2
+2021.06.14.18.13.35_veh-26_00522_00702,232,879,"At this light, make a left turn. At the next light, go straight but enter the right lane.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,64.7
+2021.10.11.07.12.18_veh-50_01571_01823,217,1045,"At the third instersection, make a left turn. At the light, just go straight but turn left at the next intersection. Then immediately after turn left and enter this little turn thing. Exit by making a left and go straight. Then at the intersection up ahead make another left. Enter the P&G loading zone.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,82.8
+2021.10.11.05.34.05_veh-50_00020_00149,5,472,"At this light continue going straight. Then at the upcoming light, make a right turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.7
+2021.10.11.02.57.41_veh-50_00704_00776,70,341,Just follow the road and continue going straight. Turn around here.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,27.1
+2021.10.11.05.34.05_veh-50_00020_00149,245,419,"At the light, go straight and at the upcoming light make a right turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,17.4
+2021.06.09.18.23.43_veh-35_01232_01405,14,659,Follow the grey van in front of us.,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,64.5
+2021.06.14.13.27.42_veh-35_02614_02842,36,1119,"At this light, make a left turn. Just follow the white van in front of us and copy what they do",Both,nelida,./staging/labels - Nelida Salgado.csv,,108.3
+2021.09.15.11.49.23_veh-28_00280_00506,341,852,Go past this light and the next one.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,51.1
+2021.09.15.16.17.26_veh-28_01581_01740,4,788,"Go past this light, then at the next one on Melcher street turn left. From here continue going straight until we get another traffic light, then at the light make a right turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,78.4
+2021.07.16.22.40.23_veh-38_00818_03032,796,1527,"At this light, make a left turn. There's a light right after the turn, but just go straight. Merge into the right lane with the black Chevy.",Both,nelida,./staging/labels - Nelida Salgado.csv,,73.1
+2021.06.09.11.54.15_veh-12_04138_04355,87,419,"Go past this light and the first crosswalk, at the second crosswalk make a right turn. Enter the loading zone of the Diamond and Seven Star and wait behind this car that is loading.",Both,nelida,./staging/labels - Nelida Salgado.csv,,33.2
+2021.06.23.20.43.31_veh-16_00238_00577,16,1682,Just go straight until I say otherwise. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,166.6
+2021.06.14.13.27.42_veh-35_04001_04236,759,954,"At this light, you're going to make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,19.5
+2021.10.11.05.34.05_veh-50_00838_00947,45,277,"At this light, make a right. At the next time make another right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.2
+2021.06.14.11.44.56_veh-35_05211_05338,85,618,"Merge into the right lane, behind the black Toyota and just follow it.",Both,nelida,./staging/labels - Nelida Salgado.csv,,53.3
+2021.10.11.02.57.41_veh-50_00352_00535,317,530,Enter the loading zone on your left. Then exit and go straight to the other loading zone across us. Then exit this loading zone and make a left to turn around.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.3
+2021.09.15.12.32.43_veh-28_00708_00866,74,764,"At the light, just go straight. Go around this white truck and enter the right lane. At the light, make a right turn. At the next light, make a left turn.",Both,nelida,./staging/labels - Nelida Salgado.csv,,69.0
+2021.06.14.13.27.42_veh-35_01698_01822,66,536,follow the white van in front of us,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.0
+2021.07.16.00.51.05_veh-17_01938_03243,974,2008,"Enter the loading zone, then exit. At the upcoming light, make a left turn. After you make the turn, enter the right lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,103.4
+2021.06.14.16.48.02_veh-12_04783_04967,690,897,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.7
+2021.06.09.12.51.31_veh-35_01427_01576,365,705,"For this light and the rest, just go straight.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,34.0
+2021.06.14.16.48.02_veh-12_00721_00828,1,528,"Go past this light and at the second crosswalk, make a right turn when it is clear. Just the like the silver SUV is doing. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,52.7
+2021.06.09.11.54.15_veh-12_04138_04355,643,1071,"At this light, make a left turn. Go past the second traffic light and enter the right lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,42.8
+2021.06.14.14.03.45_veh-38_03180_03766,291,1793,"Follow this white car and exit the unloading zone. At the light, instead of going straight, you're going to make a left turn. After we make the left, merge into the right lane and follow the Sysco truck. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,150.2
+2021.06.09.18.23.43_veh-35_02344_02669,393,943,Keep going straight. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,55.0
+2021.10.11.07.47.13_veh-50_00886_00952,34,281,Go straight and use the roundabout to turn back around where we came from,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,24.7
+2021.06.14.13.27.42_veh-35_03142_03404,528,1030,Follow the white van,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,50.2
+2021.05.12.22.28.35_veh-35_00350_00568,867,1051,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.4
+2021.06.14.16.32.09_veh-35_03438_03580,282,443,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,16.1
+2021.08.17.18.54.02_veh-45_00665_01065,283,1949,"At the stop sign, make a right turn. Go straight until you reach the light, then when you can make another right turn. Once we reach the gas station, we're going to make a left turn at the light. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,166.6
+2021.06.14.14.25.15_veh-26_02586_02648,33,296,Follow the black van into the loading zone. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,26.3
+2021.06.14.13.28.41_veh-12_01779_02059,2,1291,"At the interesection across from the Luxor sign with ads make a right turn. Then at the intersection past the stop sign, make a left. Enter the parking zone, then exit and at the stop sign make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,128.9
+2021.10.06.17.08.46_veh-28_00651_01030,326,1252,"At the light, make a left turn. Then just keep going straight ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,92.6
+2021.06.09.17.37.09_veh-12_01801_01925,22,473,"Make a left turn into the loading zone. Then at the stop sign, you're going to make a right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,45.1
+2021.08.17.16.48.45_veh-43_01676_01764,120,318,Just go straight past this light. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,19.8
+2021.06.09.12.39.51_veh-26_00609_01168,483,1179,"Go straight, as we approach the Luxor sign make a right turn, so merge into the farthest right lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,69.6
+2021.06.09.17.23.18_veh-38_02094_02305,563,950,Enter the right lane next to us. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,38.7
+2021.06.09.14.50.36_veh-26_01537_01600,112,279,"After the turn made, enter the farthest left lane",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,16.7
+2021.06.09.17.23.18_veh-38_02316_02391,124,332,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.8
+2021.06.23.20.43.31_veh-16_02216_02667,452,1879,"Continue straight. After we pass SANDS ave, enter the lane on the right next to us. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,142.7
+2021.09.15.14.27.22_veh-39_00665_00745,4,347,"At the stop sign, make a left turn. Continue going straight from here. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,34.3
+2021.10.06.19.27.33_veh-28_00302_00794,1712,2173,"At the light, make a right turn. Go straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.1
+2021.10.01.19.16.42_veh-28_00917_01499,695,1468,"At the light, make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,77.3
+2021.06.14.13.27.42_veh-35_00243_00342,108,282,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,17.4
+2021.06.14.17.26.26_veh-38_03238_03403,69,788,"Exit the roundabout by making a right where the cones are at. Then at the light, make a left turn. Go past the second light, and just continue straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,71.9
+2021.09.15.14.27.22_veh-39_00868_01125,467,729,"Make a right at this intersection. At the next intersection, make another right. Go around the bicyclist.",Both,nelida,./staging/labels - Nelida Salgado.csv,,26.2
+2021.06.09.17.37.09_veh-12_03132_03193,85,265,Enter the right lane next to us. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.0
+2021.06.14.16.32.09_veh-35_00100_00272,223,451,"At this light, make a left turn. Once we finish our turn and its safe to do so, enter the lane to the right of us. Continue straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.8
+2021.06.14.16.48.02_veh-12_02601_02668,55,251,Go straight.,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,19.6
+2021.06.14.18.13.35_veh-26_02441_02514,77,328,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,25.1
+2021.10.11.05.34.05_veh-50_02309_02677,751,1499,"At the light, make a right turn. Go past this Thales sign and at the intersection following, make a right turn. Go straight and then once we hit the wall, make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,74.8
+2021.08.17.18.54.02_veh-45_02105_02189,29,344,"Go past the first light, then at the second make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,31.5
+2021.06.09.11.54.15_veh-12_01403_01526,121,274,"At the light, make a right. ",Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.3
+2021.06.14.16.32.09_veh-35_04516_04698,342,821,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.9
+2021.08.17.14.45.12_veh-42_00831_01079,615,1223,"At the intersection, make a right turn. Go past the first light, then at the second make a right turn. Keep going straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,60.8
+2021.05.12.19.36.12_veh-35_01179_01278,83,316,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.3
+2021.06.14.14.03.45_veh-38_02112_03169,418,719,just follow the white car. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,30.1
+2021.05.12.23.36.44_veh-35_00063_00141,97,378,"Go past this light, then enter the lane on the left to us behind the white car, stay in this lane.",Both,nelida,./staging/labels - Nelida Salgado.csv,,28.1
+2021.06.14.13.27.42_veh-35_03624_03705,172,346,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,17.4
+2021.10.06.13.21.47_veh-28_00139_00216,145,371,Turn right. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.6
+2021.09.15.14.50.05_veh-28_00389_00508,69,248,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,17.9
+2021.06.09.17.37.09_veh-12_03003_03121,0,512,Just follow the white car in front of us,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,51.2
+2021.10.06.14.31.13_veh-28_00981_01226,28,740,,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,71.2
+2021.07.16.21.17.55_veh-26_04426_04488,0,304,"At this light, be prepared to make a left. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,30.4
+2021.09.15.14.00.15_veh-28_00770_00852,104,376,"At the stop sign, make a left. Go straight, and when we get to this intersection where the semi is parked make a left",Both,nelida,./staging/labels - Nelida Salgado.csv,,27.2
+2021.06.14.17.26.26_veh-38_04931_05037,3,156,After the stop sign be enter the left lane next to us. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.3
+2021.09.15.13.16.40_veh-28_01817_01902,91,380,"Go straight, and go past this semi.",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,28.9
+2021.06.09.18.23.43_veh-35_00799_01004,166,427,Go straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,26.1
+2021.09.15.13.16.40_veh-28_01817_01902,60,269,"Make a right and continue straight, watch out for the semi",Both,nelida,./staging/labels - Nelida Salgado.csv,,20.9
+2021.08.17.14.32.33_veh-08_01576_01919,510,763,"At the stop sign, make a left. At the next stop sign, make another left.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,25.3
+2021.06.09.18.23.43_veh-35_00799_01004,85,321,"At the light, make a left.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.6
+2021.09.15.14.27.22_veh-39_01420_01480,10,217,"Go around this semi truck and at the light, go straight.",Both,nelida,./staging/labels - Nelida Salgado.csv,,20.7
+2021.05.12.22.28.35_veh-35_00620_01164,163,2352,"Continue straight. Near the Tom Ford store, merge into the right lane next to us. Then at the light, make a right. Enter the Aria resort and casino, and enter the roundabout.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,218.9
+2021.06.14.11.44.56_veh-35_01308_01584,276,911,"After this left turn, go to the farthest right lane. After going past this light, enter the right lane.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,63.5
+2021.06.09.12.39.51_veh-26_02470_02648,137,362,"Go past the first crosswalk, and then at the second crosswalk enter the right lane. Follow the white car and enter the roundabout. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,22.5
+2021.08.17.14.32.33_veh-08_01576_01919,78,809,"Continue going straight, until you reach a stop sign. At the stop sign, make a left. Then at the next stop sign make another left. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,73.1
+2021.06.14.13.27.42_veh-35_00542_00645,69,277,"Follow the white van, to enter the exit the roundabout.",Both,nelida,./staging/labels - Nelida Salgado.csv,,20.8
+2021.09.15.15.34.53_veh-28_00030_00128,29,355,"At the stop sign, make a right. Then at the intersection, make another right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.6
+2021.10.11.07.47.13_veh-50_01020_01123,46,463,"Go past this light, and continue going straight.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,41.7
+2021.10.01.17.52.06_veh-28_01141_01264,308,581,"At the stop sign, go right. Then just continue going straight.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,27.3
+2021.07.09.01.37.16_veh-26_01336_01396,86,237,"At the stop sign, exit by making a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.1
+2021.07.09.23.23.48_veh-26_01319_01432,5,441,"At the light, be prepared to make a left turn. Merge into the left lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,43.6
+2021.06.09.18.23.43_veh-35_03609_03793,33,678,Exit the roundabout and at the light make a left turn. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,64.5
+2021.09.15.14.27.22_veh-39_01166_01252,48,418,"Go straight and go past two stop lights. At the third stop light, where the Greyhound is at make a left turn. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,37.0
+2021.06.14.16.32.09_veh-35_00574_00989,400,2013,"After this left turn, continue going straight. Once we reach the shopping centers with the luxury stores, merge into the right lane behind the white car. At the light, where the big Luxor sign is at take a right turn. Go past the stop sign, then enter the loading zone. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,161.3
+2021.10.06.17.43.07_veh-28_01118_01302,489,808,Just follow the road and continue going straight,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,31.9
+2021.08.17.16.57.11_veh-08_00206_00331,101,562,"Go straight, once we reach the light we will make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.1
+2021.06.14.18.13.35_veh-26_00954_01050,5,433,"At the stop make a right turn. At the stop light, you are going to make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,42.8
+2021.06.09.11.54.15_veh-12_03371_03642,181,953,"Continue going straight. Once we pass the Exacalibur hotel merge into the farthest right lane, so we can make a right turn at the traffic light. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,77.2
+2021.06.14.16.48.02_veh-12_02517_02590,14,327,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,31.3
+2021.06.09.18.23.43_veh-35_01028_01221,60,836,"Go straight, just follow the grey car in front of us",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,77.6
+2021.10.06.17.08.46_veh-28_01298_01548,549,927,"Go straight and pass this silver car in front of us. At the stop sign, make a right and continue straight past the second stop sign. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,37.8
+2021.06.09.14.03.17_veh-12_00015_00099,15,227,"At the light, make a left turn. Then merge into the lane to the right of us. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,21.2
+2021.06.14.17.26.26_veh-38_04544_04920,330,1856,Follow the white van,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,152.6
+2021.06.09.17.23.18_veh-38_02316_02391,10,367,Follow the grey car in front of us. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,35.7
+2021.07.16.16.08.35_veh-35_00805_01292,1379,1927,"Once we get close to the travelodge sign, merge into the right lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,54.8
+2021.10.01.13.28.54_veh-28_00995_01087,197,399,"At the light, make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.2
+2021.10.11.08.31.07_veh-50_00005_00242,254,1050,"Go straight and go past the light. Enter the Galaxis drop off area, then exit the drop off area and make a left. Then at the light, where the motorcyclist is waiting at make a left turn.",Both,nelida,./staging/labels - Nelida Salgado.csv,,79.6
+2021.06.09.11.54.15_veh-12_02540_02723,580,870,"At the light, make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,29.0
+2021.06.14.18.33.41_veh-35_02339_02447,114,402,Follow the silver car in front of us. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,28.8
+2021.09.15.14.27.22_veh-39_01491_01763,130,985,"Go straight past the bridge, then at the light make a left. At the following light make another left. Merge into the right lane, then at the light at the end of the bridge make a right turn. Continue straight until you reach the light, then make another right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,85.5
+2021.05.12.19.36.12_veh-35_01744_01934,99,931,"At the light, make a left turn. Continue going straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,83.2
+2021.06.09.14.50.36_veh-26_04123_04185,17,270,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,25.3
+2021.07.09.15.53.28_veh-38_00184_02293,1482,1959,"At the stop sign, make a right turn. Then at the light, make a left turn.  ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,47.7
+2021.05.12.19.36.12_veh-35_01744_01934,254,720,Just keep going straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,46.6
+2021.07.09.20.26.06_veh-35_03898_05974,906,1629,Merge into the right lane next to us. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,72.3
+2021.06.09.14.03.17_veh-12_03014_03120,7,393,"At this light, make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,38.6
+2021.06.14.18.33.41_veh-35_02140_02328,547,701,Continue going straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.4
+2021.06.14.13.28.41_veh-12_01591_01695,10,218,"At this light, make a left turn.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.8
+2021.07.09.01.37.16_veh-26_01726_01793,28,226,"Go past this light, and at the second crosswalk make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,19.8
+2021.06.14.18.33.41_veh-35_00898_01182,602,959,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,35.7
+2021.09.15.12.32.43_veh-28_00015_00093,69,291,At this light continue going straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.2
+2021.06.09.12.39.51_veh-26_03951_04180,230,564,Enter the farthest right lane.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,33.4
+2021.06.09.11.54.15_veh-12_02734_02946,106,852,Go straight. Go around this black van and merge into the right lane.,Both,nelida,./staging/labels - Nelida Salgado.csv,,74.6
+2021.07.09.17.06.37_veh-35_05026_05593,1276,1957,Merge into the right lane next to us behind the white car. Then merge behind the black truck.,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,68.1
+2021.06.09.12.51.31_veh-35_03371_03476,15,515,Make a left turn and wait next to the taxi van. ,Both,nelida,./staging/labels - Nelida Salgado.csv,,50.0
+2021.06.09.14.50.36_veh-26_03507_03584,75,259,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.4
+2021.09.15.13.52.55_veh-39_00371_00631,55,1165,"At the stop sign, make a left turn. At the next stop sign, make another right turn. Continue going straight, go past this stop sign and at the second make a right. Go past this first stop sign and then at the second make a left. At the light, just continue going straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,111.0
+2021.10.01.13.28.54_veh-28_01421_01615,513,716,At this light and the next one continue going straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,20.3
+2021.10.06.14.31.13_veh-28_00589_00665,60,244,At the light make a left turn. Then at the following light make a right turn. Just follow the road. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.4
+2021.07.16.16.08.35_veh-35_02397_02540,20,501,"Go around this green cab and exit the loading zone by making a right next to the cones. At the light, be prepared to make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,48.1
+2021.06.14.14.03.45_veh-38_03777_04059,490,918,"Go past the light, and follow the black car. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,42.8
+2021.06.09.12.51.31_veh-35_01047_01415,227,1514,"Follow the silver sedan next to us and exit the loading zone. At the stop sign, make a right turn. Then at the light, be prepared to make a left. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,128.7
+2021.06.14.17.26.26_veh-38_04285_04392,30,279,,Both,nelida,./staging/labels - Nelida Salgado.csv,,24.9
+2021.07.16.18.19.22_veh-35_00869_03454,431,1150,"After the light, merge into the right lane behind the white SUV. Continue to follow it. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,71.9
+2021.06.09.14.03.17_veh-12_03678_03787,138,485,"Follow the grey SUV into the parking area and wait behind the orange taxi. Once this white sedan passes by, follow it to the exit. ",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,34.7
+2021.09.15.13.16.40_veh-28_02198_02321,76,404,Go past this light and continue going straight. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.8
+2021.07.16.23.22.27_veh-14_06214_06318,225,501,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,27.6
+2021.05.12.19.36.12_veh-35_01305_01389,75,362,Follow the white car. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,28.7
+2021.05.12.19.36.12_veh-35_00215_00405,236,762,Continue going straight. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,52.6
+2021.06.09.12.51.31_veh-35_00540_00631,10,358,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,34.8
+2021.06.14.16.48.02_veh-12_00585_00672,0,332,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,33.2
+2021.06.09.12.06.35_veh-35_00149_00262,6,536,"Go past the first light, and at the second light make a right turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,53.0
+2021.10.01.17.52.06_veh-28_01289_01353,139,299,"At the stop sign, go straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,16.0
+2021.07.09.01.37.16_veh-26_01726_01793,0,330,"Go past the first crosswalk, and at the second one make a right.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,33.0
+2021.06.14.16.48.02_veh-12_02861_03047,131,457,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.6
+2021.09.15.14.27.22_veh-39_01281_01346,0,319,Go straight past this light and at the stop sign make a left turn. Go straight and follow the road but you will have to make a right turn at the next stop sign. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,31.9
+2021.07.16.00.24.14_veh-38_00367_01154,1267,2482,Follow the white car in front of us. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,121.5
+2021.09.15.13.52.55_veh-39_00643_00807,165,754,"Go straight and at the light make a left turn. Continue going straight until the next light where you will make another left. After the turn, and we are on the bridge merge into the right lane next to us, behind the white van",Both,nelida,./staging/labels - Nelida Salgado.csv,,58.9
+2021.06.14.13.27.42_veh-35_05029_05340,522,1504,"Make a right turn at the light. Go past the stop sign, then turn where the white van is turning. Enter the loading zone and wait behind the black car unloading. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,98.2
+2021.06.14.14.25.15_veh-26_02932_03190,189,1068,"At the upcoming light, make a right turn. Go around this white van and enter the farther right lane. Wait at the intersection and after this white van passes make a left turn into the unloading zone. Then exit the loading zone by making a right turn at the stop sign. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,87.9
+2021.07.09.20.59.12_veh-38_01713_01842,21,632,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,61.1
+2021.06.09.17.37.09_veh-12_03003_03121,161,570,"Just continue going straight, like the white car in front of us. ",Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,40.9
+2021.08.17.18.13.38_veh-45_00410_00618,3,1028,"At the light, make a left turn. At the stop sign go straight and follow the road until you see another stop sign. When you reach the second stop sign make a right turn and continue going straight. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,102.5
+2021.07.09.01.37.16_veh-26_02856_02932,132,329,"At the light, make a left turn. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,19.7
+2021.07.16.21.17.55_veh-26_02927_02992,19,298,"Continue going straight, then enter the right lane to pass this orange truck. Then just continue going straight. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,27.9
+2021.06.14.14.25.15_veh-26_02179_02316,32,561,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,52.9
+2021.05.12.22.28.35_veh-35_02138_02481,379,869,Go straight following the road. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,49.0
+2021.07.09.16.12.19_veh-26_07208_07271,47,282,"At the stop light, make a right turn. Then as we approach the light, enter the lane to the left of us, so we are behind the silver truck. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,23.5
+2021.05.12.22.28.35_veh-35_01175_02127,1382,2361,"Go straight, after crossing the light on SANDS ave merge into the right lane. Then at the next light, take a right. Enter the roundabout where the black pickup van is at. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,97.9
+2021.10.01.18.26.05_veh-28_00005_00413,753,1101,"At the light, make a right turn. Go past this light and at the next one make a right. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,34.8
+2021.06.14.17.26.26_veh-38_02740_03036,145,1236,Just follow the white van and enter the same lane they did. ,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,109.1
+2021.06.09.14.03.17_veh-12_03584_03667,21,332,"Go straight, after the light merge into the right lane behind the red car.",Both,nelida,./staging/labels - Nelida Salgado.csv,,31.1
+2021.06.09.19.40.26_veh-12_02031_02228,43,611,"At the light near the Luxor sign, we are going to make a right. After the turn, try to enter the farthest left lane. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,56.8
+2021.09.15.11.49.23_veh-28_00081_00237,338,614,Use this empty parking lot to do a u-turn.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,27.6
+2021.07.09.16.12.19_veh-26_02509_02592,32,369,"At the light, make a right. Then enter the lanes to the left of us.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,33.7
+2021.09.15.11.49.23_veh-28_02192_02253,5,239,Go straight. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,23.4
+2021.07.16.22.40.23_veh-38_00371_00797,1120,1480,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.0
+2021.06.09.20.26.11_veh-35_01227_01514,270,728,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,45.8
+2021.10.01.13.28.54_veh-28_00607_00973,512,1630,"At the light, make a left turn. Enter the same lane as the cyclist. Then at the intersection make a right. Go straight and at the light make a left turn. After the turn enter the lane to the right of us ",Both,nelida,./staging/labels - Nelida Salgado.csv,,111.8
+2021.06.09.17.37.09_veh-12_02239_02313,77,347,"Make a right, by the crosswalk. And follow the white car into the drop off zone then wait behind the black chevrolet.",Both,nelida,./staging/labels - Nelida Salgado.csv,,27.0
+2021.06.23.20.00.35_veh-35_00130_00949,244,2520,"Wait in the drop off zone, then exit. At the light make a left turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,227.6
+2021.10.06.17.43.07_veh-28_01354_01536,505,660,"At the intersection, make a left. ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,15.5
+2021.07.16.23.22.27_veh-14_01383_01479,103,468,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.5
+2021.08.17.15.02.08_veh-45_00167_00480,595,1291,"At the light, make a left turn. Go past down the bridge and past the light right at the end of the bridge. At the next light, make a left. Then at the stop make a left.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,69.6
+2021.06.09.17.37.09_veh-12_03003_03121,44,543,go straight and stay behind the white car and ad,Dynamic Referential,nelida,./staging/labels - Nelida Salgado.csv,,49.9
+2021.07.09.01.37.16_veh-26_03306_03373,47,293,"At the light, enter the left lane and stay behind the black chevrolet",Both,nelida,./staging/labels - Nelida Salgado.csv,,24.6
+2021.10.01.14.20.36_veh-28_00475_00646,48,482,Go straight,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,43.4
+2021.06.14.17.26.26_veh-38_03162_03227,23,208,Enter the crosswalk intersection and then enter the loading zone,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,18.5
+2021.08.17.17.17.01_veh-45_00123_00191,61,317,Go straight and follow the road. ,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,25.6
+2021.06.09.18.23.43_veh-35_00799_01004,138,512,At the light turn left. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,37.4
+2021.06.23.22.05.48_veh-16_00602_00800,87,892,"Go straight. Copy the white car in front of us and enter the same lane they did. At the light, make a right turn. Enter the loading zone, wait behind the black car then exit. Go straight until you reach the light. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,80.5
+2021.09.15.12.32.43_veh-28_01238_01314,48,373,"At the light, make a right turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,32.5
+2021.08.17.18.11.12_veh-08_00083_00200,264,493,Follow the road and continue straight.,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,22.9
+2021.06.09.14.58.55_veh-35_01496_01664,22,684,Go straight. Near the construction area enter the lane to the right lane.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,66.2
+2021.06.09.17.37.09_veh-12_00404_00864,821,1362,Go straight past the light. Enter the right lane behind the taxi. Continue going straight.,Both,nelida,./staging/labels - Nelida Salgado.csv,,54.1
+2021.06.09.11.54.15_veh-12_01403_01526,73,316,"At the light, you're going to make a right turn ",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,24.3
+2021.05.12.23.36.44_veh-35_02035_02387,758,1617,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,85.9
+2021.05.12.22.28.35_veh-35_01175_02127,378,1344,,Non-Referential,nelida,./staging/labels - Nelida Salgado.csv,,96.6
+2021.06.09.14.03.17_veh-12_01883_01955,28,273,"After the turn, enter the farthest left lane.",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,24.5
+2021.07.16.16.01.30_veh-38_02497_03871,423,2236,"At the right turn, enter the farthest left lane. Go past the stop sign, then make a left turn into the loading zone. Exit and make a right turn. Then at the light make a left turn",Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,181.3
+2021.09.15.12.32.43_veh-28_01410_01501,44,406,Continue going straight at the stop sign make a right. ,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,36.2
+2021.06.14.14.03.45_veh-38_00088_00769,488,1799,"Go straight, then merge into the right lane behind the red-orange car. Stay in this lane and continue going straight. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,131.1
+2021.08.17.17.17.01_veh-45_01796_02069,327,1171,At the light make a left turn. At the next light make another left.,Static Referential,nelida,./staging/labels - Nelida Salgado.csv,,84.4
+2021.06.14.14.25.15_veh-26_02932_03190,0,1182,"Follow the white van. After the right turn at the light, enter the farthest left lane. Go past the stop sign and at the intersection make a left turn. Enter the loading zone then at the stop sign, make a right turn to exit. At the light be prepared to make a left turn. ",Both,nelida,./staging/labels - Nelida Salgado.csv,,118.2
 2021.10.06.13.21.47_veh-28_00441_00515,166,338,,Non-Referential,jeremykemmerer,./staging/labels - Jeremy K__1AJ490RmE1i9EcyE4pcNleVEkArtsSHuC.csv,,17.2
 2021.10.01.19.16.42_veh-28_03215_03296,189,353,Follow the truck,Dynamic Referential,jeremykemmerer,./staging/labels - Jeremy K__1AJ490RmE1i9EcyE4pcNleVEkArtsSHuC.csv,,16.4
 2021.09.15.11.49.23_veh-28_01869_02000,331,648,"Follow the green van until you get to the park, then turn left",Both,jeremykemmerer,./staging/labels - Jeremy K__1AJ490RmE1i9EcyE4pcNleVEkArtsSHuC.csv,,31.7
